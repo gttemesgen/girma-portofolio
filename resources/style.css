@@ -1,0 +1,33 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&family=Lexend+Deca&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    color: white;
+    background-color: #222823;
+    font-family: 'Fredoka';
+    
+}
+
+.nav {
+    background-color:#1C211D;
+    background: none;
+}
+
+a {
+    color: #EB9C0A;
+    text-decoration: none;
+}
+
+.nav-link{
+    color: #EB9C0A;
+   
+}
+
+.column-12{
+    border: 1px solid red;
+}
+
